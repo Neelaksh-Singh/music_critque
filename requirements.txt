@@ -1,0 +1,12 @@
+streamlit
+pytube
+pandas
+numpy
+plotly
+matplotlib
+assemblyai
+openai
+python-dotenv
+langchain
+wordcloud
+st-clickable-images
